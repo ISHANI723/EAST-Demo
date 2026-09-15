@@ -1,4 +1,4 @@
-# EAST: An Efficient and Accurate Scene Text Detector
+# Report on EAST: An Efficient and Accurate Scene Text Detector
 
 This repository contains the implementation and demonstration for **SIT789 Robotics, Computer Vision and Speech Processing – High Distinction Task 5.2**.
 
