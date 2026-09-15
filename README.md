@@ -86,7 +86,7 @@ demo/pths/model_epoch_20.pth
 The main testing script is:
 
 ```text
-demo/test_30.py
+test_30.py
 ```
 
 This script:
@@ -124,18 +124,14 @@ Several test images were inspected visually to understand the behaviour of the t
 
 The model was able to generate candidate text regions, but many predictions were incorrectly positioned or occurred in non-text regions. Some detections were close to the ground-truth text, while many others produced false positives.
 
-Example outputs are provided in:
-
-```text
-demo/sample_results/
-```
-
 Representative results include:
 
-* `result_img_259.jpg`
-* `result_img_445.jpg`
-* `result_img_527.jpg`
-* `result_img_121.jpg`
+* `result_img_343.jpg`
+* `result_img_709.jpg`
+* `result_img_711.jpg`
+* `result_img_857.jpg`
+* `result_img_880.jpg`
+* `result_img_932.jpg`
 
 These examples were generated from the project's own test results and were not copied from the original EAST paper.
 
